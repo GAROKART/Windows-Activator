@@ -57,7 +57,7 @@ if %uni% ==22 goto :22
 :1
 cls
 pause
-slmgr /ipk <TX9XD-98N7V-6WMQ6-BX7FG-H8Q99>
+slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -68,7 +68,7 @@ goto :ende
 :2
 cls
 pause
-slmgr /ipk <3KHY7-WNT83-DGQKR-F7HPR-844BM>
+slmgr /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -79,7 +79,7 @@ goto :ende
 :3
 cls
 pause
-slmgr /ipk <7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH>
+slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -90,7 +90,7 @@ goto :ende
 :4
 cls
 pause
-slmgr /ipk <PVMJN-6DFY6-9CCP6-7BKTT-D3WVR>
+slmgr /ipk PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -101,7 +101,7 @@ goto :ende
 :5
 cls
 pause
-slmgr /ipk <W269N-WFGWX-YVC9B-4J6C9-T83GX>
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -112,7 +112,7 @@ goto :ende
 :6
 cls
 pause
-slmgr /ipk <MH37W-N47XK-V7XM9-C7227-GCQG9>
+slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -123,7 +123,7 @@ goto :ende
 :7
 cls
 pause
-slmgr /ipk <NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J>
+slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -134,7 +134,7 @@ goto :ende
 :8
 cls
 pause
-slmgr /ipk <9FNHH-K3HBT-3W4TD-6383H-6XYWF>
+slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -145,7 +145,7 @@ goto :ende
 :9
 cls
 pause
-slmgr /ipk <6TP4R-GNPTD-KYYHQ-7B7DP-J447Y>
+slmgr /ipk 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -156,7 +156,7 @@ goto :ende
 :10
 cls
 pause
-slmgr /ipk <NW6C2-QMPVW-D7KKK-3GKT6-VCFB2>
+slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -167,7 +167,7 @@ goto :ende
 :11
 cls
 pause
-slmgr /ipk <2WH4N-8QGBV-H22JP-CT43Q-MDWWJ>
+slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -178,7 +178,7 @@ goto :ende
 :12
 cls
 pause
-slmgr /ipk <NPPR9-FWDCX-D2C8J-H872K-2YT43>
+slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -189,7 +189,7 @@ goto :ende
 :13
 cls
 pause
-slmgr /ipk <DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4>
+slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -200,7 +200,7 @@ goto :ende
 :14
 cls
 pause
-slmgr /ipk <YYVX9-NTFWV-6MDM3-9PT4T-4M68B>
+slmgr /ipk YYVX9-NTFWV-6MDM3-9PT4T-4M68B
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -211,7 +211,7 @@ goto :ende
 :15
 cls
 pause
-slmgr /ipk <44RPN-FTY23-9VTTB-MP9BX-T84FV>
+slmgr /ipk 44RPN-FTY23-9VTTB-MP9BX-T84FV
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -222,7 +222,7 @@ goto :ende
 :16
 cls
 pause
-slmgr /ipk <M7XTQ-FN8P6-TTKYV-9D4CC-J462D>
+slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -233,7 +233,7 @@ goto :ende
 :17
 cls
 pause
-slmgr /ipk <92NFX-8DJQP-P6BBQ-THF9C-7CG2H>
+slmgr /ipk 92NFX-8DJQP-P6BBQ-THF9C-7CG2H
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -244,7 +244,7 @@ goto :ende
 :18
 cls
 pause
-slmgr /ipk <DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ>
+slmgr /ipk DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -255,7 +255,7 @@ goto :ende
 :19
 cls
 pause
-slmgr /ipk <QFFDN-GRT3P-VKWWX-X7T3R-8B639>
+slmgr /ipk QFFDN-GRT3P-VKWWX-X7T3R-8B639
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -266,7 +266,7 @@ goto :ende
 :20
 cls
 pause
-slmgr /ipk <33QT6-RCNYF-DXB4F-DGP7B-7MHX9>
+slmgr /ipk 33QT6-RCNYF-DXB4F-DGP7B-7MHX9
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -277,7 +277,7 @@ goto :ende
 :21
 cls
 pause
-slmgr /ipk <NBTWJ-3DR69-3C4V8-C26MC-GQ9M6>
+slmgr /ipk NBTWJ-3DR69-3C4V8-C26MC-GQ9M6
 pause
 slmgr /skms kms8.msguides.com
 pause
@@ -288,7 +288,7 @@ goto :ende
 :22
 cls
 pause
-slmgr /ipk <VK7JG-NPHTM-C97JM-9MPGT-3V66T>
+slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
 pause
 slmgr /skms kms8.msguides.com
 pause
